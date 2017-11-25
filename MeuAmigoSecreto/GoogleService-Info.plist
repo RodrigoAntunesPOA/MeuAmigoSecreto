@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1013767852582-gfianchmpupof75g6qv9gi8od0bpj33f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1013767852582-gfianchmpupof75g6qv9gi8od0bpj33f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1KmiWERN-ub14KuKM_4LIZQvhm3GBXCI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1013767852582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.edm.projeto.MeuAmigoSecreto</string>
+	<key>PROJECT_ID</key>
+	<string>tab-layout-4f096</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tab-layout-4f096.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1013767852582:ios:9905029dd1894c44</string>
+	<key>DATABASE_URL</key>
+	<string>https://tab-layout-4f096.firebaseio.com</string>
+</dict>
+</plist>
