@@ -6,5 +6,8 @@ use_frameworks!
 target ‘MeuAmigoSecreto’ do
     platform :ios, '9.0'
     pod 'Firebase', '~> 4.6'
+    pod 'Firebase/Database'
+    pod 'Firebase/Auth'
+    pod 'Firebase/Storage'
 end
 

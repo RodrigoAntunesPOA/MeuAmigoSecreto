@@ -7,12 +7,21 @@
 //
 
 import UIKit
+import Firebase
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UIApplicationDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        var ref: DatabaseReference!
+        
+        ref = Database.database().reference()
+       
+        
+       ref.child("HelloWorld").child("51998051703").childByAutoId().setValue(["Mensagem": "Olá mundo!!!"])
+        
     }
 
     override func didReceiveMemoryWarning() {
